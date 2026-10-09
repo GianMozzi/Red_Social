@@ -1,9 +1,5 @@
 # 🐤 Pajarito · mini red social
 
-Versión 2 de mi primera red social. Empezó como un CRUD en JavaScript vanilla y ahora es una app moderna con React, TypeScript y TanStack Query.
-
-**Demo:** _(pegá acá el link de GitHub Pages cuando lo actives)_
-
 ## Qué hace
 
 - Publicar, editar y borrar publicaciones (CRUD completo contra la API de JSONPlaceholder).
